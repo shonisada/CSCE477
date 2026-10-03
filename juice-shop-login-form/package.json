@@ -1,0 +1,9 @@
+{
+  "name": "juice-shop-login-form",
+  "version": "1.0.0",
+  "description": "Basic HTML/JS login form (Juice Shop style) with client- and server-side validation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
